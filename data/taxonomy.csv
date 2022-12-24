@@ -1,0 +1,26 @@
+parent_category,child_category,breakdown_by
+approach to tax,tax strategy,approach_by_practices
+approach to tax,tax havens,approach_by_practices
+approach to tax,tax incentives,approach_by_practices
+approach to tax,transfer pricing,approach_by_practices
+approach to tax,Governance body that reviews tax strategy,approach_by_governance
+approach to tax,Frequency of review of tax strategy,approach_by_governance
+approach to tax,Approach to regulatory compliance,approach_by_compliance
+approach to tax,Approach to tax laws,approach_by_compliance
+approach to tax,Organisation’s intent of tax laws,approach_by_compliance
+approach to tax,Organisation’s compliance with the law,approach_by_compliance
+approach to tax,tax strategy alignment with commercial activities,approach_by_activity
+approach to tax,Economic impact of approach to tax,approach_by_activity
+approach to tax,social impact of approach to tax,approach_by_activity
+Tax governance,Implementation of tax governance,governance_by_operation
+Tax governance,Control and risk management systems,governance_by_operation
+Tax governance,Details of governance body accountable for compliance with tax strategy,governance_by_governing_body
+Tax governance,Degree to which highest governance body can oversee compliance of tax strategy,governance_by_governing_body
+Tax governance,Accountability for compliance delegated to executive level positions,governance_by_governing_body
+Tax governance,Processes that support adherence to tax strategy,governance_by_process
+Tax governance,Programs that support adherence to tax strategy,governance_by_process
+Tax governance,Tax risk management practices,governance_by_risk_management
+Tax governance,Tax risk identification,governance_by_risk_management
+Tax governance,Tax risk management,governance_by_risk_management
+Tax governance,Tax risk monitoring,governance_by_risk_management
+Tax governance,Evaluation of compliance performed on tax governance,governance_by_compliance
